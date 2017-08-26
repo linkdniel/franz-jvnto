@@ -1,0 +1,23 @@
+{
+  "name": "jvnto",
+  "version": "1.0.0",
+  "description": "Jvnto",
+  "main": "index.js",
+  "author": "Patrick Daniel",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://jvnto.network/",
+    "serviceName": "jvnto",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
